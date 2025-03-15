@@ -4,9 +4,9 @@
 
 ---
 
-## 📺 Demo
+## 📺 Screenshot
 
-👉 ![Website Security Grader Screenshot](assets/demo.png)
+👉 ![Website Security Grader Screenshot](Screenshot.png)
 
 ---
 

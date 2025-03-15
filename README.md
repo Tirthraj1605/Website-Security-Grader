@@ -6,8 +6,7 @@
 
 ## 📺 Demo
 
-👉 [Watch the Demo Video](https://youtu.be/your-demo-video-link)  
-_(Replace the link with your actual demo video on YouTube, Loom, etc.)_
+👉 ![Website Security Grader Screenshot](assets/demo.png)
 
 ---
 
